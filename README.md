@@ -1,4 +1,1 @@
-Hi there, I’m Nyran Abraham Tahija 👋
-
-I am passionate about studying marine ecosystems, with a strong focus on coral reefs. My interests also extend to blue carbon mapping, precision agriculture, water resource management, and air quality. Among these, coral reef research excites me the most, and I am eager to explore advanced tools such as AI, data science, and machine learning to strengthen my work.
-
+Hi everyone! My name is Nyran Abraham Tahija, and I’m passionate about exploring how emerging technologies can enhance our ability to study and conserve marine and coastal environments. I’m especially interested in using tools like GIS, remote sensing, and Earth observation to support sustainable environmental management and research.
