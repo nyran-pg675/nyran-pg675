@@ -1,1 +1,1 @@
-Hi everyone! My name is Nyran Abraham Tahija, and I’m passionate about exploring how emerging technologies can enhance our ability to study and conserve marine and coastal environments. I’m especially interested in using tools like GIS, remote sensing, and Earth observation to support sustainable environmental management and research.
+I’m Nyran Abraham Tahija, a postgraduate student in Environmental Science with a Bachelor’s degree in Fisheries and Marine Science. I’m passionate about marine science, remote sensing & GIS, Web GIS, GIS programming. 
