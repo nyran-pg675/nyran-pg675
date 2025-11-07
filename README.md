@@ -1,1 +1,1 @@
-I’m Nyran Abraham Tahija, a postgraduate student in environmental science with a Bachelor’s degree in Fisheries and Marine Science. I’m passionate about marine science, remote sensing & GIS, Web GIS, GIS programming. 
+I’m Nyran Abraham Tahija, a postgraduate student in environmental science with a bachelor’s degree in Fisheries and Marine Science. I’m passionate about marine science, remote sensing & GIS, Web GIS, GIS programming. 
