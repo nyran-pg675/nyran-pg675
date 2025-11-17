@@ -8,6 +8,4 @@ I’m motivated by the idea that environmental challenges need both scientific i
 
 🌐 Interests: Marine Science, Coral Reefs, Remote Sensing, GIS, Web GIS, Geospatial Analysis, Environmental Monitoring, ML for Earth Observation
 
-🛠️ Tools: GEE, QGIS, ArcGIS, R, Python, JavaScript, Google Colab
-
 📍 Focus: Digital environmental innovation + community-based conservation
