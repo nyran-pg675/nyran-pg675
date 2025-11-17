@@ -6,5 +6,5 @@ On the tech side, I work with remote sensing, GIS programming, cloud platforms, 
 
 I’m motivated by the idea that environmental challenges need both scientific insight and community collaboration — and I’m excited to keep building tools and knowledge that support sustainable, conflict-sensitive environmental action.
 
-🌐 Interests: Marine Science, Coral Reefs, Remote Sensing, GIS, Web GIS, Geospatial Analysis, Environmental Monitoring, ML for Earth Observation.
-📍 Focus: Digital environmental innovation + community-based conservation
+🌐 #Interests: Marine Science, Coral Reefs, Remote Sensing, GIS, Web GIS, Geospatial Analysis, Environmental Monitoring, ML for Earth Observation.
+📍 #Focus: Digital environmental innovation + community-based conservation
