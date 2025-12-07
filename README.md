@@ -1,3 +1,5 @@
-Hi! I’m Nyran — a Master’s student in Environmental Science passionate about marine ecosystems, remote sensing, GIS, and Web GIS development. I love exploring how digital tools can support conservation, improve environmental monitoring, and connect science with real-world decision-making.
+Hi! I’m Nyran Abraham Tahija — an environmental scientist in training with strong interests in environmental management, compliance, and geospatial analysis. I’m currently in my final semester of my master’s in Environmental Science, where I focus on practical solutions for land, water, and marine resource management.
 
-With climate change on a constant rise and the need to provide a wide scope of sustainable living for the welfare and the livelihood of humanity as a whole, environmental scientists have taken a position of great importance.
+I’m passionate about the core areas of environmental work: waste management, water and soil sampling, environmental auditing, EIA processes, and environmental monitoring frameworks. My approach blends scientific fieldwork with analytical tools to support sustainable planning and responsible environmental decision-making.
+
+My current master’s thesis uses satellite data and spatio-temporal analysis to monitor environmental stress in coral reef ecosystems, focusing on bleaching distribution, intensity, and species vulnerability—bridging marine science and advanced geospatial methods to support conservation and management.
